@@ -1,7 +1,8 @@
-# (UPDATE IN README.md) Project Title
+# ReadMe - NLP Book Recommender
 
 (UPDATE IN README.md)
 Briefly describe the purpose/result(s) of your project, the skills you applied, and the AI4ALL Ignite program.
+Have you ever read a book that was so good that you wished you could read more books just like it? Have you ever been frustrated in the process of finding a book that scratched that itch due to the lack of good online recommendations? ReadMe is a project that aims to fill the book recommendation hole. 
 
 *EXAMPLE:*
 *Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
